@@ -32,7 +32,7 @@ img {
 .container {
   width: 1158px;
   padding: 0 15px;
-  margin: auto;
+  margin: 0 auto;
 }
 /* #region header */
 .page-header {
@@ -123,7 +123,6 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
-  padding-top: 188px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 48px;
@@ -235,7 +234,6 @@ img {
 /* #endregion */
 /* #region fourth section */
 .fourth-section-page {
-  width: calc((100% - 48px) / 3);
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -261,8 +259,6 @@ img {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  padding-top: 32px;
-  padding-left: 16px;
   margin-bottom: 8px;
   margin-top: 8px;
   color: #2e2f42;
@@ -277,8 +273,6 @@ img {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  padding-left: 16px;
-  padding-bottom: 32px;
   color: #434455;
 }
 /* #endregion */
